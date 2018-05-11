@@ -1,0 +1,21 @@
+body {
+  background-color: Black ;
+  text-align: center;
+}
+
+#title,
+.headings {
+  color: white;
+  font-family: verdana;
+  font-weight: normal;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#footer {
+  text-align: right;
+  color: gray;
+}
