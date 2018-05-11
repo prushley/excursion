@@ -1,13 +1,27 @@
 body {
   background-color: Black ;
   text-align: center;
+  font-family: verdana;
 }
 
 #title,
 .headings {
   color: white;
-  font-family: verdana;
   font-weight: normal;
+}
+
+#title {
+  font-size: 50px;
+}
+
+.headings {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#strap {
+  font-size: 21px;
+  color: gray;
 }
 
 a {
